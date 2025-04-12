@@ -1,3 +1,10 @@
+// codeforces problem link:https://codeforces.com/contest/118/problem/A
+
+
+
+
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
