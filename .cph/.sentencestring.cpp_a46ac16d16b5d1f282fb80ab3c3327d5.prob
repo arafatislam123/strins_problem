@@ -1,0 +1,1 @@
+{"name":"Local: sentencestring","url":"e:\\Strings problem\\sentencestring.cpp","tests":[{"id":1744693826451,"input":"","output":""},{"id":1744694217126,"input":"Hello world","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Strings problem\\sentencestring.cpp","group":"local","local":true}
